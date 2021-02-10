@@ -1,5 +1,5 @@
--Bashを動かすと、IDのデータが取れると思います。
--エンドポイントはportalを利用しています。
+- Bashを動かすと、IDのデータが取れると思います。
+- エンドポイントはportalを利用しています。
 
 ```
 PREFIX nando:<http://nanbyodata.jp/ontology/nando#>
